@@ -3,7 +3,7 @@
 <!--
 **nfarrasd/nfarrasd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Farras is a Penultimate undergraduate Mathematics student from Bandung Institute of Techonology, specializing in statistics and industrial mathematics. Currently, I am learning Artificial Intelligence, specifically Machine and Deep Learning algorithms, to solve pecualiar industrial problems like coastal wave, 3D pipe reconstruction, etc. In addition to that, I strive to bring Mathematical Modeling and Machine-generated Model into co-existence when tackling real-life problems.
+Farras is a Penultimate undergraduate Mathematics student from Bandung Institute of Techonology, specializing in statistics and industrial mathematics. Currently, Farras is learning Artificial Intelligence, specifically Machine and Deep Learning algorithms, to solve pecualiar industrial problems like coastal wave, 3D pipe reconstruction, etc. In addition to that, Farras strives to bring Mathematical Modeling and Machine-generated Model into co-existence when tackling real-life problems.
 
 Do feel free to reach me via [LinkedIn]([https://www.linkedin.com/in/nfarrasd/]) if you have any topics to be discussed or interesting projects collaboration. Or perhaps you just want to say Hi and make some small talks? I do read manga/manhwa in my spare time 😃
 
