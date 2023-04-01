@@ -3,7 +3,7 @@
 <!--
 **nfarrasd/nfarrasd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm majoring in Math at Bandung Institute of Technology, mostly dealing with statistics and modeling. Spent most of my time importing pandas, numpy, scipy, scikit, and tensorflow 🤓. I am also biased towards finance so you will find most of my projects are related to that 😀
+I'm majoring in Math at Bandung Institute of Technology, mostly dealing with statistics and modeling. Spent most of my time importing pandas, numpy, scipy, scikit, and tensorflow 🤓. I am also biased towards finance and statistics so you will find most of my projects are related to that 😀
 
 Do feel free to reach me via [LinkedIn]([https://www.linkedin.com/in/nfarrasd/]) if you have any topics to be discussed or interesting projects collaboration. Or perhaps you just want to say Hi and make some small talks? I do read manga/manhwa in my spare time 🏃‍♀️
 
